@@ -32,4 +32,4 @@ print("vége")
 valami=True
 while valami:
     print("házi feladat")
-    valami=Fals
+    valami=False
